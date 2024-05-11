@@ -13,3 +13,7 @@ We would now upload objects into our just created bucket, we would click on the 
 ![bucketupload](https://github.com/Adeexy/Laravel-Project/assets/151438215/bd09ef91-3c79-428e-98bf-9d901bbb9e9e)
 
 ![bucketfileuploadsuccess](https://github.com/Adeexy/Laravel-Project/assets/151438215/0e9e5478-b629-463a-b017-079cd6e6fd8d)
+
+We would be moving the content of the file inside of our folder to the bucket root directory, so we would click on the folder, after it is open, we would select all the objects, then click on action and click on move, then it will open a page, then under the destination tab click on browse s3, it will open another page, just click on the name of your bucket, then click on choose destination, it will open another page, scroll down, then click on move, you have now successfully moved all the objects in to the bucket root directory.
+
+![moveobjectstorootdire](https://github.com/Adeexy/Laravel-Project/assets/151438215/c3beed71-abe5-4dd0-bfa5-afbe88bb6d88)

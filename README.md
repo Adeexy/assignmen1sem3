@@ -20,3 +20,14 @@ We would be moving the content of the file inside of our folder to the bucket ro
 
 ![moveobjectstorootdire5](https://github.com/Adeexy/Laravel-Project/assets/151438215/c571f0a8-9ecc-4d9b-ad5b-2f3b219fbfa1)
 
+Next step is to create our cloudfront, so you will go to your search box and type cloudfront, click on it, then once it is opened click on create distribution.
+
+![createcloudfront](https://github.com/Adeexy/Laravel-Project/assets/151438215/e21b7e40-2905-4572-a5b1-a963d6aafe2a)
+
+![createcloudfront1](https://github.com/Adeexy/Laravel-Project/assets/151438215/1f0c6163-e809-4a87-895a-c77008d729ba)
+
+![createoaccloudfront](https://github.com/Adeexy/Laravel-Project/assets/151438215/5041103d-5c59-4bc4-9590-9df234107d29)
+
+![createcloudfront2](https://github.com/Adeexy/Laravel-Project/assets/151438215/1a209cb6-1555-4998-a434-1b063f791f21)
+
+![cloudfrontcreatedsuccesfully](https://github.com/Adeexy/Laravel-Project/assets/151438215/5b7e48b7-9cc2-482f-b694-6aba6f5a1ae4)
